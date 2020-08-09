@@ -2,7 +2,7 @@ import ReleaseTransformations._
 
 name := "sbt-coveralls"
 
-organization := "org.scoverage"
+organization := "net.ruippeixotog"
 
 sbtPlugin := true
 
